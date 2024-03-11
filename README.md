@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milena</h1>
+<h1 align="center">Hi 👋, I'm Milena Lahiton</h1>
 <h3 align="center">Soy estudiante de avanzada de ingeniería en telecomunicaciones</h3>
 
 - 🔭 I’m currently working on **milelahiton**
